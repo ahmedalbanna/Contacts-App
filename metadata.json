@@ -1,0 +1,6 @@
+{
+  "name": "جهات الاتصال",
+  "description": "تطبيق متطور وعصري لإدارة جهات الاتصال يدعم البحث السريع والمفضلة والعمليات الفورية كالاتصال وإرسال الرسائل وتخصيص البيانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
